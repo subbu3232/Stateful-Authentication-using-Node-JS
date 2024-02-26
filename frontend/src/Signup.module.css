@@ -1,0 +1,15 @@
+/* Signup.css */
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: rgb(173, 216, 230); /* Lighter shade of blue */
+  }
+  
+  .formdiv {
+    background-color: rgba(255, 255, 255, 0.5); /* Set the background color with some transparency */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a subtle box shadow for depth */
+    border-radius: 10px; /* Add border-radius for rounded corners */
+    padding: 20px; /* Add padding for better spacing */
+  }
+  
+ 
